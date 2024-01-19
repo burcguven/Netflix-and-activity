@@ -1,5 +1,6 @@
 # Netflix-and-activity
 relation of time in a year and my activities
+
 Burç Güven - 30667 - burc.guven@sabanciuniv.edu
 This is my detailed summary of my project about my Netflix media history and my step count data from 2020 untikl January 2024. This GitHub repositary contains a ReadMe file, a report, a power point presentation, and last but not least, a file that includes my personal Netflix and step count Data and the Python code to manipulate these Data.
 1️⃣ReadMe File: This file gives information about how this GitHUb repositary will be used. Before you take a look to other files, it may be better to check this information.
